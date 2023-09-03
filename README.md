@@ -1,1 +1,5 @@
 # MyCDACProject
+Project name:-Blood bank management system
+Duration:- 2 month
+Platform-Java EE (Jsp, Jdbc), MySQL, Html/CSS,javascript. 
+Description:- We made a web application named as a blood bank management system intended to provide blood for blood receivers as per their requirement. This will make it easy to get blood from the donor and the admin keeps track of it and manages the blood bank. Our project has an admin module. Admin can manage all blood requests and responds accordingly and he stored detailed information of blood donors in the database and used them as required, also admin managed blood stock as per blood group and updated blood units regularly. Blood receiver requests blood by filling a simple form request for blood given in the home page of application. If mistakenly any wrong data inserted by blood receiver, then he is able to update data from the recent blood activity section. We used jsp view pages as frontend with tomcat 9 server, jsp implicit object and Jdbc as backend and My-SQL as a database.
